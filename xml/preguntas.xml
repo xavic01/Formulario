@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions[
+    <!ELEMENT questions (question*)>
+    <!ELEMENT question (type, title, option*, answer+)>
+    <!ATTLIST question
+    id CDATA #REQUIRED>
+    <!ELEMENT type (#PCDATA)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT option (#PCDATA)>
+    <!ELEMENT answer (#PCDATA)>
+]>
+<questions>
+    <question id="1">
+        <type>radio</type>
+        <title>1- ¿Cómo se llama el estadio del Real Madrid?</title>
+        <option>Camp Nou</option>
+        <option>Estadio Santiago Bernabéu</option>
+        <option>Son Moix</option>
+        <option>Son Malferit</option>
+        <answer>1</answer>
+    </question>
+    <question id="2">
+        <type>text</type>
+        <title>2- ¿A quién llaman CR7?</title>
+        <answer>Cristiano Ronaldo</answer>
+    </question>
+    <question id="3">
+        <type>checkbox</type>
+        <title>3- ¿Que delantero europeo vamos a fichar en el siguiente mercado?</title>
+        <option>Mauro Icardi</option>
+        <option>Abdón Prats</option>
+        <option>Neymar</option>
+        <option>Harry Kane</option>
+        <answer>3</answer>
+    </question>
+    <question id="4">
+        <type>select</type>
+        <title>4- ¿Quién es el presidente del club?</title>
+        <option>Florentino Pérez</option>
+        <option>Bartomeu</option>
+        <option>Robert Sarver</option>
+        <option>Enrique Cerezo</option> 
+        <answer>0</answer>
+    </question>
+    <question id="5">
+        <type>multiple</type>
+        <title>5- ¿Quién ha sido delantero de la cantera del Real Madrid ?</title>
+        <option>Enrique Cerezo</option>
+        <option>Álvaro Morata</option>
+        <option>Higuaín</option>
+        <option>Roberto Carlos</option>
+        <option>Pelé</option>
+        <answer>1</answer>
+        <answer>2</answer>
+    </question>
+    <question id="6">
+        <type>radio</type>
+        <title>6-  El capitán de la Décima fue:</title>
+        <option>Sergio Ramos</option>
+        <option>Lucas Vázquez</option>
+        <option>Karim Benzemá</option>
+        <option>Iker Casillas</option>
+        <answer>3</answer>
+    </question>
+    <question id="7">
+        <type>text</type>
+        <title>7- ¿En qué año se fundó el club?</title>
+        <answer>1902</answer>
+    </question>
+    <question id="8">
+        <type>checkbox</type>
+        <title>8- Un compañero puede tener un 1 vs 1 contra el portero ¿A quién no le pasas el balón?:</title>
+        <option>Keylor Navas</option>
+        <option>Karim Benzemá</option>
+        <option>Luís Suárez</option>
+        <answer>1</answer>
+    </question>
+    <question id="9">
+        <type>select</type>
+        <title>9- El gol de "La Décima" fue de:</title>
+        <option>Nadie</option>
+        <option>Leo Messi</option>
+        <option>Sergio Ramos</option>
+        <option>Casemiro</option> 
+        <answer>3</answer>
+    </question>
+    <question id="10">
+        <type>multiple</type>
+        <title>10- ¿Cúales son los apellidos de Isco?</title>
+        <option>Suárez Ramos</option>
+        <option>Román Alarcón Suárez</option>
+        <option>Alarcón Suárez</option>
+        <option>Andrés Butragueño</option>
+        <answer>1</answer>
+        <answer>2</answer>
+    </question>	
+</questions>
