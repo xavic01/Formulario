@@ -11,4 +11,11 @@ Para poder hacer las preguntas de select múltiple debes pulsar la segunda opci�
 
 He introducido una función que no te deja corregir el test sin antes contestar todas las preguntas. Además, una vez has rellenado todas las preguntas y le das a corregir, te dice la nota que has sacado y cuáles son las preguntas que has fallado y que has acertado.
 
-Hay dos css, uno para el ordenador y el otro para los móbiles. Por otra parte, he implementado que las preguntas mal contestadas resten.
+Por otra parte, he implementado que las preguntas mal contestadas resten.
+
+Este repositorio contiene:
+- 1 archivo html con el índex.
+- 1 archivo html con las instrucciones.
+- 1 archivo xml con las preguntas.
+- 1 archivo js con las funciones.
+- 2 archivos css, uno para móbiles y el otro para los ordenadores.
