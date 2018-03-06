@@ -1,0 +1,120 @@
+{
+  "questions": {
+    "question": [
+      {
+        "-id": "1",
+        "type": "radio",
+        "title": "1- ¿Cómo se llama el estadio del Real Madrid?",
+        "option": [
+          "Camp Nou",
+          "Estadio Santiago Bernabéu",
+          "Son Moix",
+          "Son Malferit"
+        ],
+        "answer": "1"
+      },
+      {
+        "-id": "2",
+        "type": "text",
+        "title": "2- ¿A quién llaman CR7?",
+        "answer": "Cristiano Ronaldo"
+      },
+      {
+        "-id": "3",
+        "type": "checkbox",
+        "title": "3- ¿Que delantero europeo vamos a fichar en el siguiente mercado?",
+        "option": [
+          "Mauro Icardi",
+          "Abdón Prats",
+          "Neymar",
+          "Harry Kane"
+        ],
+        "answer": "3"
+      },
+      {
+        "-id": "4",
+        "type": "select",
+        "title": "4- ¿Quién es el presidente del club?",
+        "option": [
+          "Florentino Pérez",
+          "Bartomeu",
+          "Robert Sarver",
+          "Enrique Cerezo"
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "5",
+        "type": "multiple",
+        "title": "5- ¿Quién ha sido delantero de la cantera del Real Madrid ?",
+        "option": [
+          "Enrique Cerezo",
+          "Álvaro Morata",
+          "Higuaín",
+          "Roberto Carlos",
+          "Pelé"
+        ],
+        "answer": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "-id": "6",
+        "type": "radio",
+        "title": "6-  El capitán de la Décima fue:",
+        "option": [
+          "Sergio Ramos",
+          "Lucas Vázquez",
+          "Karim Benzemá",
+          "Iker Casillas"
+        ],
+        "answer": "3"
+      },
+      {
+        "-id": "7",
+        "type": "text",
+        "title": "7- ¿En qué año se fundó el club?",
+        "answer": "1902"
+      },
+      {
+        "-id": "8",
+        "type": "checkbox",
+        "title": "8- Un compañero puede tener un 1 vs 1 contra el portero ¿A quién no le pasas el balón?:",
+        "option": [
+          "Keylor Navas",
+          "Karim Benzemá",
+          "Luís Suárez"
+        ],
+        "answer": "1"
+      },
+      {
+        "-id": "9",
+        "type": "select",
+        "title": "9- El gol de \"La Décima\" fue de:",
+        "option": [
+          "Nadie",
+          "Leo Messi",
+          "Sergio Ramos",
+          "Casemiro"
+        ],
+        "answer": "3"
+      },
+      {
+        "-id": "10",
+        "type": "multiple",
+        "title": "10- ¿Cúales son los apellidos de Isco?",
+        "option": [
+          "Suárez Ramos",
+          "Román Alarcón Suárez",
+          "Alarcón Suárez",
+          "Andrés Butragueño"
+        ],
+        "answer": [
+          "1",
+          "2"
+        ]
+      }
+    ]
+  }
+}
