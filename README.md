@@ -19,3 +19,4 @@ Este repositorio contiene:
 - 1 archivo xml con las preguntas.
 - 1 archivo js con las funciones.
 - 2 archivos css, uno para móbiles y el otro para los ordenadores.
+- 1 archivo json con las preguntas.
